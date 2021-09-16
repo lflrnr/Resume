@@ -17,8 +17,8 @@ Python for Everybody Specialization (5 courses)
 edX - Introduction to Computer Science using Python (3 courses completed and 1 audited)
 - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/
 
-Lynda
-- https://www.lynda.com/AllCertificates/User/1995144729
+Lynda - (migrated to Linkedin Learning, waiting for completed courses to transfer over)
+- https://github.com/lflrnr/Certificates
 
 Prior specialties:
 Environmental compliance; project and program management; audits; training; 
