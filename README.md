@@ -7,10 +7,13 @@ Certificates:
 Coursera
 Applied Data Science with Python (5 courses)
 - https://www.coursera.org/account/accomplishments/specialization/35443KBANTXA
+
 Statistics with Python Specialization (3 courses)
 - https://www.coursera.org/account/accomplishments/specialization/GTJUS2C3KPUZ
+
 Python 3 Programming Specialization (5 courses)
 - https://www.coursera.org/account/accomplishments/specialization/2Y8XEZGEQJAD
+
 Python for Everybody Specialization (5 courses)
 - https://www.coursera.org/account/accomplishments/specialization/FSPTXMJGGFAF
 
