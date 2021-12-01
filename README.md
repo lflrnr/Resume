@@ -4,6 +4,10 @@ Connect with me @ https://www.linkedin.com/in/mushy/
 
 Certificates:
 
+Udemy
+2021 Python for Machine Learning & Data Science Masterclass (44 hours)
+- https://www.udemy.com/certificate/UC-b0ca04d0-55c5-4694-b518-9aa4cff501ff/
+
 Coursera
 Applied Data Science with Python (5 courses)
 - https://www.coursera.org/account/accomplishments/specialization/35443KBANTXA
