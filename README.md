@@ -1,6 +1,7 @@
-I am a former environmental professional currently studying Python based Data Science.
-I am keenly interested in Data Scientist and Data Analyst roles.
+Motivated Python practitioner seeking to deliver data informed solutions.  With a growing set of analytics tools and proven leadership in driving results while working with cross-functional teams, I am passionate about expanding my impact. I am tech savvy, a fast learner, live an active lifestyle and look forward to new challenges. Interested in Python roles and learning new tech stacks.
+
 Connect with me @ https://www.linkedin.com/in/mushy/
+
 
 Certificates:
 
@@ -23,9 +24,6 @@ Python for Everybody Specialization (5 courses)
 
 edX - Introduction to Computer Science using Python (3 courses completed and 1 audited)
 - https://credentials.edx.org/records/programs/shared/50d8dd4d81b646cbb0fb43c121e97ea6/
-
-Lynda - (migrated to Linkedin Learning, waiting for completed courses to transfer over)
-- https://github.com/lflrnr/Certificates
 
 Prior specialties:
 Environmental compliance; project and program management; audits; training; 
