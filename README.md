@@ -1,4 +1,4 @@
-Motivated Python practitioner seeking to deliver data informed products and insights.  With a growing set of analytics tools and proven leadership in driving results while working with cross-functional teams, I am passionate about expanding my impact. I am tech savvy, a fast learner, live an active lifestyle and look forward to new challenges. Interested in Python roles and learning new tech stacks.
+Motivated data analyst seeking to deliver data informed products and insights.  With a growing set of analytics tools and proven leadership in driving results while working with cross-functional teams, I am passionate about expanding my impact. I am tech savvy, a fast learner, live an active lifestyle and look forward to new challenges. Interested in data roles and learning new tech stacks.
 
 Connect with me @ https://www.linkedin.com/in/mushy/
 
