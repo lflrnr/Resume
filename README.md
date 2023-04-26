@@ -1,4 +1,4 @@
-Motivated data analyst seeking to deliver data informed products and insights.  With a growing set of analytics tools and proven leadership in driving results while working with cross-functional teams, I am passionate about expanding my impact. I am tech savvy, a fast learner, live an active lifestyle and look forward to new challenges. Interested in data roles and learning new tech stacks.
+Aspiring data engineer seeking to deliver data informed products and insights.  With a growing set of data tools and proven leadership in driving results while working with cross-functional teams, I am passionate about expanding my impact. I am tech savvy, a fast learner, live an active lifestyle and look forward to new challenges. Interested in data engineer and data analyst roles.
 
 Connect with me @ https://www.linkedin.com/in/mushy/
 
